@@ -1,6 +1,6 @@
 # CIRNet_TIP2022
 
-Runmin Cong, Qinwei Lin, Chen Zhang, Chongyi Li, Xiaochun Cao, Qingming Huang, and Yao Zhao, CIR-Net: Cross-modality interaction and refinement for RGB-D salient object detection, IEEE Transactions on Image Processing, vol. 31, pp. 6800-6815, 2022.
+Runmin Cong, Qinwei Lin, Chen Zhang, Chongyi Li, Xiaochun Cao, Qingming Huang, and Yao Zhao, CIR-Net: Cross-modality interaction and refinement for RGB-D salient object detection, IEEE Transactions on Image Processing, 2022. In Press.
 
 # Results of CIR-Net
 * Results:
@@ -40,17 +40,7 @@ python3 CIRNet_train.py --backbone R50
 
 * You can find the results in the `test_maps` folder
 
-## If you use our CIR-Net, please cite our paper:
+# If you use our CIR-Net, please cite our paper:
 
-    @article{crm/tip22/CIRNet,
-      title={{CIR-Net}: Cross-modality interaction and refinement for {RGB-D} salient object detection},
-      author={Cong, Runmin and Lin, Qinwei and Zhang, Chen and Li, Chongyi and Cao, Xiaochun and Huang, Qingming and Zhao, Yao },
-      journal={IEEE Trans. Image Process. },
-      volume={31},
-      pages={6800-6815},
-      year={2022},
-     }
-
-## Contact Us
+# Contact Us
 If you have any questions, please contact Runmin Cong (rmcong@bjtu.edu.cn) or Qinwei Lin (lqw22@mails.tsinghua.edu.cn).
-
