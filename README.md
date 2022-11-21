@@ -42,14 +42,14 @@ python3 CIRNet_train.py --backbone R50
 
 ## If you use our CIR-Net, please cite our paper:
 
-   @article{crm/tip22/CIRNet,
-     title={{CIR-Net}: Cross-modality interaction and refinement for {RGB-D} salient object detection},
-     author={Cong, Runmin and Lin, Qinwei and Zhang, Chen and Li, Chongyi and Cao, Xiaochun and Huang, Qingming and Zhao, Yao },
-     journal={IEEE Trans. Image Process. },
-     volume={31},
-     pages={6800-6815},
-     year={2022},
-   }
+    @article{crm/tip22/CIRNet,
+      title={{CIR-Net}: Cross-modality interaction and refinement for {RGB-D} salient object detection},
+      author={Cong, Runmin and Lin, Qinwei and Zhang, Chen and Li, Chongyi and Cao, Xiaochun and Huang, Qingming and Zhao, Yao },
+      journal={IEEE Trans. Image Process. },
+      volume={31},
+      pages={6800-6815},
+      year={2022},
+     }
 
 ## Contact Us
 If you have any questions, please contact Runmin Cong (rmcong@bjtu.edu.cn) or Qinwei Lin (lqw22@mails.tsinghua.edu.cn).
